@@ -1,0 +1,27 @@
+    class Program
+    {
+        public static int topla(int sayi1,int sayi2)   //fonksiyon static olarak tanımlanmasaydı main fonk içinde
+        {                                              //Program.topla şeklinde erişemezdik. 
+            int sonuc = sayi1 + sayi2;                //
+            return sonuc;
+        }
+
+        static void Main(string[] args)
+        {
+            int sonuc = Program.topla(20, 30);
+            Console.WriteLine(sonuc);
+        }
+    }
+}
+///////////////////////////////////////////////////////////////////////////////
+    class Program
+    {
+        public int Sayi;
+        public static int StatikSayi;
+    
+        static void Main(string[] args)
+        {
+            Sayi = 15;                      // Sayi değişkeni statik tanımlanmadığı zaman erişilemez
+            StatikSayi = 20;
+        }
+    }
