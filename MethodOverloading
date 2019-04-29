@@ -1,3 +1,7 @@
+  
+  // NOT : MethodOverloading İLE HER ELEMAN EKLEMEK İSTEDİĞİMİZDE TEK TEK METOD YAZIYORUZ. BUNUN YERINE PARAMS İLE  DİZİ BİÇİMİNDE(?)
+  //       RAHATLIKLA ÇOK PARAMETRELİ METODLAR OLUŞTURABİLİRİZ...
+  
   class Program
     {
         static void Main(string[] args)
