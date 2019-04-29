@@ -1,0 +1,20 @@
+  class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(Multiply(2, 3));
+            Console.WriteLine(Multiply(2, 3, 4));
+            Console.ReadKey();
+
+        }
+        static int Multiply(int s1,int s2)
+        {
+            return s1 * s2;
+        }
+        static int Multiply(int s1,int s2,int s3)
+        {
+            return s1 * s2 * s3;
+        }
+
+     
+    }
