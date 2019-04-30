@@ -78,4 +78,4 @@ namespace interfaces
 
         }
     }
-
+                  // AYRICA BİZ BURDA INTERFACE IMPLAMENT EDEREK POLYMORPHISM DE UYGULAMIŞ OLDUK
