@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
-
+using System.Text;                      // INTERFACE İLE FARKLI VERİTABANLARI İÇİN EKLEME SİLME VS İŞLEMLERİ YAPABİLİRİZ.
+                    //BU İŞLEMLERİ YAPMAK İÇİN EKLEME SİLME İŞLEMLERİNİ ICustomerDal'a YAZIP IMPLAMENT EDİYORUM
 namespace interfaces
 {
     interface ICustomerDal
@@ -51,3 +51,31 @@ namespace interfaces
         }
     }
 }
+
+
+//****************************************ANA PROGRAMIMIZA GELDİĞİMİZDE*************************************************
+
+
+
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            PersonManager manager = new PersonManager();
+
+            Customer customer = new Customer
+            {
+                Id = 1,
+                FistName = "atakan",
+                LastName = "ertürk"
+            };
+
+            customerManager.Add(new ...());   // ARTIK EKLEMEK İÇİN Add(new ..) yazdığımda bana iki seçenek sunar
+                                // ORACLE SQL Mİ EKLEYEYEİM SQL SERVER'A MI EKLEYEYİM DİYE. BU ŞEKİLDE BİRDEN ÇOK 
+                                    //                                                     DATABASE UYUMLU ÇALIŞABİLİRİZ...
+            manager.Add(customer);
+
+        }
+    }
+
