@@ -1,6 +1,6 @@
-﻿using System;
-
-namespace interfaces
+﻿using System;                 //*********************************************************//
+                             //!!!!!!!!!!!!!!!!!!!! ÖNEMLİ NOT 54. SATIRDA !!!!!!!!!!!!!!!!
+namespace interfaces           //********************************************************//
 {
     class Program
     {
@@ -48,10 +48,11 @@ namespace interfaces
     }
 
     class PersonManager
-    {
-        public void Add(Customer customer)     // bir nesne de parametre olabilir
-        {
-            Console.WriteLine(customer.FistName);
+    {                                     //*******************************************************************************
+        public void Add(Customer customer)//Customer customer yerine IPerson customer verirsem ben Add metodumu kullanırken
+        {                      //customer dışında student da ekleme işlemini yapabilirim. kodun bu halind student ekleyemem !!!!!!!
+                               //******************************************************************************************
+            Console.WriteLine(customer.FistName);  
         }
     }
 
