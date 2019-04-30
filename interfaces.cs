@@ -4,7 +4,7 @@ namespace interfaces           //***********************************************
 {
     class Program
     {
-
+                                                        
         static void Main(string[] args)
         {
             PersonManager manager = new PersonManager();
@@ -17,7 +17,7 @@ namespace interfaces           //***********************************************
             };
 
             manager.Add(customer);
-
+                                                            // interface1.cs KODUNDA DAHA DETAYLI ÖRENK VAR
         }
     }
 
