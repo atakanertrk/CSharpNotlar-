@@ -4,17 +4,17 @@ namespace VirtualMethods
 {
     class Program
     {
-        static void Main(string[] args)
-        {
+        static void Main(string[] args)                 //Programa çıktısı : Added by Sql Code \n Added by default.
+        {   
             SqlServer sqlServer = new SqlServer();
             sqlServer.Add();
             MySql mySql = new MySql();
             mySql.Add();
             Console.ReadLine();
-        }   //PROGRAM ÇIKTISI
-    }       //Added by Sql Code 
-            //Added by defaul
-    class Database
+        }   
+    }        
+                       // VIRTUALMEHODS'un amacı örnekte de görüldüğü gibi benim ekleme işlemim sqlserver'da farklı mysql'de farklı
+    class Database     // database sınıfında yazdığım add metodunun içinde değişiklik yapmak için virual metodları kullanırız.
     {
         public virtual void Add()
         {
@@ -28,8 +28,8 @@ namespace VirtualMethods
     }
     class SqlServer : Database
     {
-        public override void Add()
-        {
+        public override void Add()          // base.Add()'i de çaşıştırırsak add by default ve add by sql code çıktısını görürüz.
+        {                                   
             Console.WriteLine("Added by Sql Code"); 
             //base.Add();  burdaki base Database'i gösterir
         }
