@@ -1,14 +1,7 @@
 
-
-
-
-
-
-//*********************************************************************************************************************************
-
-interface IPerson // tek başına interacelerin bir anlamı yoktur yani interface'den nesne oluşturamayız fakat interface'in sahip olduğu
+interface IPerson // tek başına interfacelerin bir anlamı yoktur yani interface'den nesne oluşturamayız fakat interface'in sahip olduğu
 {                 // nesneleri, değişkenleri, verileri başka bir sınıfa aktarabiliriz. Kalıtımda interface değil class ları kullanıyoru
-    int Id { get; set; }             // interfaceleri(implament) leri kalıtım gibi kullanıyorlar fakat birbirinden farklıdır dediğimiz gibi
+    int Id { get; set; }             // interfaceleri(implament) leri kalıtım gibi kullanıyorlar fakat birbirinden farklıdır, dediğimiz gibi
     string FirstName { get; set; }  // kalıtımda kalıtılan sınıfı "new" diyerek olaya dahil edebiliyorken interfaceler dahil edilemez 
     string LastName { get; set; }
 }
@@ -18,7 +11,7 @@ class Person2
         public int number { get; set; }
 } 
 
-class Customer : Person2, IPerson //..IHelper,..    INHERITENCE (PERSON2) YAZILDIKTAN SONRA
+class Customer : Person2, IPerson //..IHelper,.. //   INHERITENCE (PERSON2) YAZILDIKTAN SONRA
 {                                 // ISTEDIGIMIZ KADAR IMPLAMENTASYON (IPerson..) YAZABILIRIZ
     public int Id { get; set; }
     public string FirstName { get; set; }
