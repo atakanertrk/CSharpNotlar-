@@ -1,3 +1,11 @@
+
+
+
+
+
+
+//*********************************************************************************************************************************
+
 interface IPerson // tek başına interacelerin bir anlamı yoktur yani interface'den nesne oluşturamayız fakat interface'in sahip olduğu
 {                 // nesneleri, değişkenleri, verileri başka bir sınıfa aktarabiliriz. Kalıtımda interface değil class ları kullanıyoru
     int Id { get; set; }             // interfaceleri(implament) leri kalıtım gibi kullanıyorlar fakat birbirinden farklıdır dediğimiz gibi
