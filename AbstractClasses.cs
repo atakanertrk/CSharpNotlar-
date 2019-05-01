@@ -1,4 +1,9 @@
-﻿using System;
+
+/*  NEDİR:  http://bidb.itu.edu.tr/seyir-defteri/blog/2013/09/08/soyut-s%C4%B1n%C4%B1f-(abstract-class)            */ 
+/* interfaceler ile virtual metodların birleşimi gibi düşünülebilir abstract classlar */
+/* Inheritance ( kalıtım ) amacıyla kullanılırlar */
+
+using System;
 
 namespace AbstractClasses
 {
