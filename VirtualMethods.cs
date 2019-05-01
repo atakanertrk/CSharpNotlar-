@@ -36,6 +36,6 @@ namespace VirtualMethods
     }
     class MySql : Database
     {
-
+ 
     }
 }
