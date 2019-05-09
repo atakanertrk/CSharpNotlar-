@@ -25,3 +25,32 @@
             StatikSayi = 20;
         }
     }
+**************************************************************************************************************
+static class Teacher
+    {
+        //static üretilen bir sınıfın metodları da static tanımlanmalıdır
+        public static int Number { get; set; }
+        //main ana fonksiyonu içinde new işlemiyle(instance) nesne oluşturulmadan direk Teacher.Number şeklinde kullanılır
+        //not: static nesneler ortak nesnelerdir direk hafıza tutulur, bir yerde değişirse her yerde değişir
+
+    }
+
+    static class Utilities
+    {
+        public static void Validate()
+        {
+            Console.WriteLine("Validation is done");
+        }
+    }
+    
+    class Manager//class static olmadan metodlar static olabilir
+    {   //static metod tanımladığımda artık ben main'in içinde Manager.DoSomething diye kullanabilirim
+        public static void DoSomething()//new ... diyip oluşturmam gerekmeden.
+        {
+            Console.WriteLine("done");
+        }
+        public void DoSomething2()
+        {
+            Console.WriteLine("done2");
+        }
+    }
