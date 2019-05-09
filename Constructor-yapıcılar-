@@ -1,0 +1,74 @@
+namespace constructor_yapıcıbloklar_
+{                                                   // EN TEMEL HALİYLE YAPICI FONKSİYONLAR,BLOKLAR                
+    class Program
+    {
+        static void Main(string[] args)
+        {   //new CustomerManager(10) yazdığımızda burdaki "10" 17. satırdaki int count'un içine gider.
+            CustomerManager customerManager = new CustomerManager(10);
+
+            customerManager.List();//çıktısı; listed 10 items
+
+            Console.ReadKey();
+        }
+    }
+    class CustomerManager
+    {
+        private int _count;
+        public CustomerManager(int count)//yapıcı blok
+        {
+            _count = count;
+        }
+
+        public void List()
+        {
+            Console.WriteLine("Listed {0} items",_count);
+        }
+
+        public void Add()
+        {
+            Console.WriteLine("Added");
+        }
+         
+    }
+}
+
+//******************************************   YAPICILARIN AŞIRI YÜKLENMESİ   ***********************************************
+
+namespace constructor_yapıcıbloklar_
+{                                                        
+    class Program
+    {
+        static void Main(string[] args)
+        {   
+            CustomerManager customerManager = new CustomerManager();
+
+            customerManager.List();//çıktısı; listed 15 items
+
+            Console.ReadKey();
+        }
+    }
+    class CustomerManager
+    {
+        private int _count=15;
+        public CustomerManager(int count)//yapıcı blok
+        {
+            _count = count;
+        }
+        public CustomerManager()//aşırı yüklenmiş yapıcı blok
+        {
+            // içine hiçbir şey yazmadık çünkü _count'a ilk değer atanmış biz bu değeri kullanmak istiyoruz. Dolayısıyla customerManager nesnemi oluştururken(43.satır)
+            //new CustomerManager() şeklinde parametre vermezsem şu an bulunduğumuz aşırı yüklenmiş blok çalışacak program çıktısı Listed 15 items.
+        }
+
+        public void List()
+        {
+            Console.WriteLine("Listed {0} items",_count);
+        }
+
+        public void Add()
+        {
+            Console.WriteLine("Added");
+        }
+         
+    }
+}
