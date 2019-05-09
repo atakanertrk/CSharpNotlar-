@@ -72,3 +72,43 @@ namespace constructor_yapıcıbloklar_
          
     }
 }
+
+//***********************************          FARKLI TARZDA TANIMLAMALAR         **********************************************
+
+namespace constructor_yapıcıbloklar_
+{                                                        
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Product product1 = new Product();//1
+            Product product2 = new Product(2, "computer");//2
+            Product product3 = new Product { Id = 3, Name = "Laptop" };//3
+
+            product1.Name = "gpu"; product1.Id = 1;
+            
+
+            Console.ReadKey();
+        }
+    }
+    class Product
+    {
+        public Product()//1
+        {
+
+        }
+
+        private int _id;
+        private string _name;
+
+        public Product(int id,string name)//2
+        {
+            _id = id;
+            _name = name;
+        }
+
+        public int Id { get; set; }//3
+        public string Name { get; set; }//3
+         
+    }
+}
