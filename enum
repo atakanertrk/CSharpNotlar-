@@ -1,0 +1,11 @@
+    class Program
+    {
+        enum Direction { NORTH, WEST, EAST, SOUTH };
+
+        static void Main(string[] args)
+        {
+            Direction dir = Direction.NORTH;
+            Console.WriteLine(dir);
+            Console.ReadKey();
+        }
+    }
