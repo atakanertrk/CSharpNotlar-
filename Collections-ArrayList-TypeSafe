@@ -40,3 +40,29 @@ namespace ArrayList_
         }
     }
 }
+/********************************************************TYPE SAFE*************************************************************
+/*
+
+using System;
+using System.Collections.Generic;
+
+namespace Collections_TypeSafe
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<string> names = new List<string>();
+            names.Add("atakan");
+        }
+    }
+}
+
+*/
+
+
+
+
+
+
+
