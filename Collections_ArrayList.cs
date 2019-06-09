@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Collections;
-
+using System.Collections;     // KÜTÜPHANELERİ EKLEMEYİ UNUTMA 
 namespace ArrayList_
 {
     class Program
