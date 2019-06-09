@@ -40,7 +40,8 @@ namespace ArrayList_
         }
     }
 }
-/********************************************************TYPE SAFE*************************************************************
+  
+//********************************************************TYPE SAFE*************************************************************
 /*
 
 using System;
@@ -60,9 +61,30 @@ namespace Collections_TypeSafe
 
 */
 
+//********************************************************************************************************************************
 
+/*
+using System;
+using System.Collections.Generic;
 
+namespace Collections_TypeSafe
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<Customer> customers = new List<Customer>();
+            customers.Add(new Customer { Id = 1, FirstName = "atakan" });
+            customers.Add(new Customer { Id = 2, FirstName = "fırat" });
+        }
+    }
+    class Customer
+    {
+        public int Id { get; set; }
+        public string FirstName { get; set; }
+    }
+}
 
-
+*/
 
 
