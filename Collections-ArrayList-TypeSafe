@@ -1,6 +1,6 @@
 
 //*************  LIST VE COLLECTIONS ICIN HAZIR METODLAR VE NOTLAR: https://www.tutorialsteacher.com/csharp/csharp-list    ********
-
+                                                       // index, sizeof, clear, add ....
 
 using System;
 using System.Collections;     // KÜTÜPHANELERİ EKLEMEYİ UNUTMA 
