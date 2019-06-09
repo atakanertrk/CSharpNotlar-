@@ -6,7 +6,7 @@ namespace interfaces
 {
     interface ICustomerDal
     {
-        void Add()
+        void Add();
         void Update();
         void Delete();
     }
