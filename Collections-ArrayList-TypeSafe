@@ -1,4 +1,8 @@
-﻿using System;
+
+//*************  LIST VE COLLECTIONS ICIN HAZIR METODLAR VE NOTLAR: https://www.tutorialsteacher.com/csharp/csharp-list    ********
+
+
+using System;
 using System.Collections;     // KÜTÜPHANELERİ EKLEMEYİ UNUTMA 
 namespace ArrayList_
 {
@@ -40,7 +44,7 @@ namespace ArrayList_
         }
     }
 }
-  
+                 
 //********************************************************TYPE SAFE*************************************************************
 /*
 
