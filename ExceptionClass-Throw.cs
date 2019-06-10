@@ -1,4 +1,21 @@
-﻿using System;
+//***********************************************RecordNotFoundException Class'ı*****************************************
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Exceptions
+{
+    public class RecordNotFoundException:Exception
+    {
+        public RecordNotFoundException(string message):base(message)
+        {
+
+        }
+    }
+}
+
+//************************************************ANA PROGRAM*********************************************************
+using System;
 using System.Collections.Generic;
 
 namespace Exceptions
@@ -48,3 +65,4 @@ namespace Exceptions
     }
 
 }
+
