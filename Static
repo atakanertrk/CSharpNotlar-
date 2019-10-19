@@ -1,4 +1,15 @@
-    class Program
+   
+   
+   https://www.c-sharpcorner.com/blogs/what-is-static-class-and-static-class-members-in-c-sharp
+   
+   
+   
+   
+   
+   
+   
+   
+   class Program
     {
         public static int topla(int sayi1,int sayi2)   //fonksiyon static olarak tanımlanmasaydı main fonk içinde
         {                                              //Program.topla şeklinde erişemezdik. 
