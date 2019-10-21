@@ -1,4 +1,7 @@
-﻿using System;
+
+//******************************* GENERICS GENERIC METHODS TYPE SAFE , KISITLAMALAR ******************************
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
