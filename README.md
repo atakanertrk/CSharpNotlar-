@@ -7,12 +7,17 @@
 1. [How To Call An API in C# ](https://www.youtube.com/watch?v=aWePkE2ReGw)
 2. [Intro to WPF: Learn the basics and best practices of WPF for C#](https://www.youtube.com/watch?v=gSfMNjWNoX0&list=PLLWMQd6PeGY3QEHCmCWaUKNhmFFdIDxE8&index=1)
 
+## Her ne kadar .net'de desktop geliştirmek mantıklı olmasada;
+* WPF, DevExpress, xaml
 
-## WPF
+## WCF
 * 
 
-## API
+## WEB API -> Json,Xml,JWT,Session,HttpRequests
 * 
 
 ## Entity Framework
+*
+
+## class library in c# -> DLL and services/microservices
 *
