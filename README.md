@@ -16,7 +16,7 @@
 * 
 
 ## WEB API -> Json,Xml,JWT,Session,HttpRequests, Authentication 
-* 
+* jwt,authentication https://medium.com/bili%C5%9Fim-hareketi/asp-net-core-ile-jwt-authentication-web-api-uyg-66a7d3fecb6f
 
 ## Entity Framework
 *
