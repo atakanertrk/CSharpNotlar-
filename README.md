@@ -4,9 +4,6 @@
 
 ## Tutorial Videos
 * [IAmTimCorey](https://www.youtube.com/user/IAmTimCorey/playlists)
-1. [How To Call An API in C# ](https://www.youtube.com/watch?v=aWePkE2ReGw)
-2. [Intro to WebAPI](https://www.youtube.com/watch?v=vN9NRqv7xmY)
-3. [Intro to WPF: Learn the basics and best practices of WPF for C#](https://www.youtube.com/watch?v=gSfMNjWNoX0&list=PLLWMQd6PeGY3QEHCmCWaUKNhmFFdIDxE8&index=1)
 
 
 ## WPF, DevExpress, Xaml
