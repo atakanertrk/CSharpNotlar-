@@ -23,5 +23,8 @@
 ## Entity Framework
 *
 
+## Azure
+* Storage/Container https://www.youtube.com/watch?v=y6bIUHtdp6Y
+
 ## class library in c# -> DLL and services/microservices
 *
