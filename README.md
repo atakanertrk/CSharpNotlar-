@@ -24,4 +24,6 @@
 * Storage/Container https://www.youtube.com/watch?v=y6bIUHtdp6Y
 
 ## class library in c# -> DLL and services/microservices
-*
+* https://stackoverflow.com/questions/710027/when-is-it-the-right-time-to-use-c-sharp-class-library-dll
+* https://www.youtube.com/watch?v=dhnsegiPXoo&list=PLLWMQd6PeGY2GVsQZ-u3DPXqwwKW8MkiP&index=10
+* https://stackoverflow.com/questions/42939454/what-is-the-difference-between-net-core-and-net-standard-class-library-project
