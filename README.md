@@ -1,6 +1,10 @@
-# General Stuff For C#.NET and OOP
+## *computer networks, database management, links and other more : ["AlsoRead.md"](https://github.com/atakanertrk/csharp-and-dotnet-general/blob/master/AlsoRead.md)* 
 
----
+#
+#
+#
+#
+#
 
 # C#.NET GENERAL
 
