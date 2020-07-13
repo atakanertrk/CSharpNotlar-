@@ -41,4 +41,5 @@
 * Microsoft Developer Network https://channel9.msdn.com/ 
 * https://stackoverflow.blog
 * https://social.msdn.microsoft.com/Forums/tr-TR/home
+* https://dotnetfoundation.org
 * infoq.com 
