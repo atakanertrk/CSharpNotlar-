@@ -10,7 +10,7 @@
 
 ## Language Concepts
 * common language runtime / intermediate language
-* oop principles (encapsulation, abstraction, inheritance, polymorphism)
+* oop principles (encapsulation, abstraction, inheritance, polymorphism, interface)
 * Access modifiers and inheritence
 > https://www.geeksforgeeks.org/access-modifiers-in-c-sharp/ <br/>
 > www.geeksforgeeks.org/c-sharp-inheritance/

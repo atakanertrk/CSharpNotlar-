@@ -43,3 +43,4 @@
 * https://social.msdn.microsoft.com/Forums/tr-TR/home
 * https://dotnetfoundation.org
 * infoq.com 
+* iamtimcorey
