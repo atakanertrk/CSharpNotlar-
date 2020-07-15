@@ -5,6 +5,7 @@
 * Kimi işe alırdın ? Sinan Canan
 > https://www.youtube.com/watch?v=KubQUW2VtqQ
 * İş ilanlarında aranan teknolojiler
+* Stackoverflow soruları
 * Computer Science Terminologys
 
 ## Git
