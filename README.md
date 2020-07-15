@@ -38,6 +38,7 @@
 ## Other Stuff
 * Linq for Lists
 > https://www.youtube.com/watch?v=yClSNQdVD7g&list=PLLWMQd6PeGY2GVsQZ-u3DPXqwwKW8MkiP&index=14
+* Generic Method, Generic Class
 * Web Service (asmx), Microservice 
 > https://stackoverflow.com/questions/45453061/what-is-the-difference-between-microservices-and-webservices
 * SOAP, WCF
