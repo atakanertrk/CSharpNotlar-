@@ -33,7 +33,7 @@
 > IConfiguration,IEnumerable vs ve scaffolding ile gelen metodlar
 * what does {get; set;} stands for in property
 >https://stackoverflow.com/questions/5096926/what-is-the-get-set-syntax-in-c <br/>
-* Attributes,Reflection,Delegate
+* Constructor,Attributes,Reflection,(Delegate&Events)
 
 ## Other Stuff
 * Linq for Lists
