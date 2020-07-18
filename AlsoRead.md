@@ -45,3 +45,5 @@
 * https://dotnetfoundation.org
 * infoq.com 
 * iamtimcorey
+* send data to ThingSpeak from your devices, create instant visualization of live data
+> thingspeak.com
