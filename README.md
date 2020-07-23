@@ -9,22 +9,20 @@
 # C#.NET GENERAL
 
 ## Language Concepts
+* CSharp 8.0 news (Read-Only Struct Members, (important)Default Interface Method Implementations and more)
+> https://www.youtube.com/watch?v=2lUZ58Zyu3w&list=PLLWMQd6PeGY12yNE714jffLFnMVZCwvvZ&index=10
 * common language runtime / intermediate language
 * oop principles (encapsulation, abstraction, inheritance, polymorphism, interface)
 * Access modifiers and inheritence
-> https://www.geeksforgeeks.org/access-modifiers-in-c-sharp/ <br/>
-> www.geeksforgeeks.org/c-sharp-inheritance/
 * Access modifiers all combinations
 > https://www.youtube.com/watch?v=jcn5uCZAk2w&list=PLLWMQd6PeGY12yNE714jffLFnMVZCwvvZ <br/>
 > https://github.com/atakanertrk/csharp-and-dotnet-general/blob/master/Example-Codes/AccessModifiersDemo.cs
-* referance type
-* keywords(ref,out,is and as, var vs dynamic)
+* referance type vs value type
+* keywords(ref-out,is-as, var-dynamic, readonly, static)
 * Async/Await/List of Tasks/cancelling tasks/Adding ProgressBar (timcorey)
-* object type / object variable /object array(you can use generic list instead object array)
-* static
-> https://www.buraksenyurt.com/post/C-Temelleri-Static-Olmak-bsenyurt-com-dan <br/>
+* object type / object variable /object array(use generic list instead object array)
 * Type Conversion / Type Casting
-* list/generic list/arraylist
+* list of objects/generic list/arraylist
 > https://code-maze.com/csharp-generic-list-dictionary/
 > https://stackoverflow.com/questions/35156711/create-list-with-name-from-variable-c-sharp
 * Model Class
@@ -35,6 +33,7 @@
 * what does {get; set;} stands for in property
 >https://stackoverflow.com/questions/5096926/what-is-the-get-set-syntax-in-c <br/>
 * Constructor,Attributes,Reflection,(Delegate&Events)
+* property and full property (prop,propfull)
 
 ## Other Stuff
 * Linq for Lists
