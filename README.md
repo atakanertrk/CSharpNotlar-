@@ -19,6 +19,7 @@
 > https://github.com/atakanertrk/csharp-and-dotnet-general/blob/master/Example-Codes/AccessModifiersDemo.cs
 * referance type
 * keywords(ref,out,is and as, var vs dynamic)
+* Async/Await/List of Tasks/cancelling tasks/Adding ProgressBar (timcorey)
 * object type / object variable /object array(you can use generic list instead object array)
 * static
 > https://www.buraksenyurt.com/post/C-Temelleri-Static-Olmak-bsenyurt-com-dan <br/>

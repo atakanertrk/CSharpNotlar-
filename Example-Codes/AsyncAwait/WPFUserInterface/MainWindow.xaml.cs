@@ -40,8 +40,8 @@ namespace WPFUserInterface
             // but the thing is, after we run this, it will wait for process
             // untill end but meantime we will be able to work with other methods (like window wont freez)
 
-            // Uncomment: await RunDownloadParallelAsync(); also download is async (faster)
-            // Uncomment: await RunDownloadAsync(); not faster than sync. only benefit is we can use other functions meantime
+            // Uncomment: await RunDownloadParallelAsync(); also, downloading process is async so this is (faster)
+            // Uncomment: await RunDownloadAsync(); same speed as sync. only benefit is we can use other functions meantime
             
             watch.Stop();
             var elapsedMs = watch.ElapsedMilliseconds;
