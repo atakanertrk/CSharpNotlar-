@@ -4,8 +4,9 @@
 ## Konular Kavramlar Araştırılacaklar ve Başka Her Şey
 * Kimi işe alırdın ? Sinan Canan
 > https://www.youtube.com/watch?v=KubQUW2VtqQ
-* İş ilanlarında aranan teknolojiler
-* Computer Science Terminologys
+* Algorithms
+> https://www.csharpstar.com/csharp-algorithms/
+> w3rescources,codingame,codewars
 
 ## Git
 
