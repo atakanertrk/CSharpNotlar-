@@ -18,7 +18,7 @@
 > https://www.youtube.com/watch?v=jcn5uCZAk2w&list=PLLWMQd6PeGY12yNE714jffLFnMVZCwvvZ <br/>
 > https://github.com/atakanertrk/csharp-and-dotnet-general/blob/master/Example-Codes/AccessModifiersDemo.cs
 * referance type vs value type
-* keywords(ref-out,is-as, var-dynamic, readonly, static)
+* keywords(ref-out,is-as, var-dynamic, readonly, static, params)
 * Async/Await/List of Tasks/cancelling tasks/Adding ProgressBar (timcorey)
 * object type / object variable /object array(use generic list instead object array)
 * Type Conversion / Type Casting
