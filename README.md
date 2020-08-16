@@ -58,6 +58,7 @@
 * Monolithic architecture
 > https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63
 * Design Patterns (singleton)
+* Thread Safety
 * Password Security
 > use hash function to store sensitive data in database
 > https://www.keycdn.com/blog/http-to-https
