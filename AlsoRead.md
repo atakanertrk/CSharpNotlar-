@@ -21,8 +21,8 @@
 * Connect multiple pc with LAN
 > https://www.quora.com/How-do-I-setup-a-LAN-between-two-computers
 * CGN IP (port forwarding problem)
-* SSH Tunneling / SSH Port Forwarding
 > https://www.youtube.com/watch?v=zOxA2b4wmHg
+* SSH Tunneling / SSH Port Forwarding
 * Types of networks
 * Switch & router & modem 
 > https://youtu.be/1z0ULvg_pW8
