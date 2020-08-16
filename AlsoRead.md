@@ -20,6 +20,9 @@
 * Bilgisayar ağları ve TCP/IP mimarisi
 * Connect multiple pc with LAN
 > https://www.quora.com/How-do-I-setup-a-LAN-between-two-computers
+* CGN IP (port forwarding problem)
+* SSH Tunneling / SSH Port Forwarding
+> https://www.youtube.com/watch?v=zOxA2b4wmHg
 * Types of networks
 * Switch & router & modem 
 > https://youtu.be/1z0ULvg_pW8
@@ -30,7 +33,7 @@
 > https://www.geeksforgeeks.org/what-is-web-socket-and-how-it-is-different-from-the-http
 * diffrenece between socket and port
 
-## Database Managament
+## Database Management
 * Relational DB / Transactions / Log (Altan Hoca Ders Notları)
 * Stored procedures in database
 
