@@ -1,0 +1,2 @@
+* Check SOLID princple examples for good examples of interface and inheritence
+> [SOLID Examples](https://github.com/atakanertrk/csharp-and-dotnet-general/tree/master/Example-Codes/DesignPatterns-Principles)
