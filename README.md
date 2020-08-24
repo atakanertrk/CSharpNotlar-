@@ -25,6 +25,8 @@
 * list of objects/generic list/arraylist
 > https://code-maze.com/csharp-generic-list-dictionary/
 > https://stackoverflow.com/questions/35156711/create-list-with-name-from-variable-c-sharp
+* Generic Type Parameter (class SampleCollection<T>)
+> https://stackoverflow.com/questions/9857180/what-does-t-denote-in-c-sharp
 * Model Class
 > https://stackoverflow.com/questions/17354719/creating-model-class-in-c (read JSON in c#)
 > (use model class for multiple paramaters to generic list)
@@ -51,10 +53,8 @@
 > https://www.youtube.com/watch?v=lx2tSY4joDg
 
 ## Extra
-* Do one job correct((SRP principle))
-* SOLID prensibi(solid: dependency injection ve SRP'yi kapsıyor), DRY(dont repeat yourself), Dependency Injection
-> https://medium.com/@gokhana/solid-nedir-solid-yaz%C4%B1l%C4%B1m-prensipleri-nelerdir-40fb9450408e <br/>
-> https://medium.com/@atarikguney/dependency-injection-nedir-1124c15249ad
+* SOLID, DRY(dont repeat yourself), Dependency Injection, Dependency Inversion (D in SOLID)
+> https://github.com/atakanertrk/csharp-and-dotnet-general/tree/master/Example-Codes/DesignPatterns-Principles 
 * Monolithic architecture
 > https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63
 * Design Patterns (singleton)
