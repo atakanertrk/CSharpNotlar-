@@ -27,6 +27,7 @@
 > https://stackoverflow.com/questions/35156711/create-list-with-name-from-variable-c-sharp
 * Generic Type Parameter (class SampleCollection<T>)
 > https://stackoverflow.com/questions/9857180/what-does-t-denote-in-c-sharp
+* Tuples
 * Model Class
 > https://stackoverflow.com/questions/17354719/creating-model-class-in-c (read JSON in c#)
 > (use model class for multiple paramaters to generic list)
@@ -49,14 +50,17 @@
 * class librarys
 > .net standart class library versions: https://github.com/dotnet/standard/blob/master/docs/versions.md
 * unit test (xunit,nunit,mstest)
+> Mocking(testing data access code)
 * dll, exe, assembly
 > https://www.youtube.com/watch?v=lx2tSY4joDg
 
 ## Extra
-* SOLID, DRY(dont repeat yourself), Dependency Injection, Dependency Inversion (D in SOLID)
+* SOLID, DRY(dont repeat yourself), Dependency Injection(Autofac), Dependency Inversion (D in SOLID)
 > https://github.com/atakanertrk/csharp-and-dotnet-general/tree/master/Example-Codes/DesignPatterns-Principles 
 * Monolithic architecture
 > https://medium.com/koderlabs/introduction-to-monolithic-architecture-and-microservices-architecture-b211a5955c63
+* Service Oriented Architecture - SOA
+> https://www.youtube.com/watch?v=wruopIH-_RM
 * Design Patterns (singleton)
 * Thread Safety
 * Password Security

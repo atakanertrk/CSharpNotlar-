@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeVideoDownloader", "YoutubeVideoDownloader\YoutubeVideoDownloader.csproj", "{BCABD538-F101-4C24-A2EA-494EC12C0E36}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YouTubeDownloaderWeb", "YouTubeDownloaderWeb\YouTubeDownloaderWeb.csproj", "{1EFA63D6-719C-417C-BA40-46ECD56F70F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YouTube-Redirect", "YouTube-Redirect\YouTube-Redirect.csproj", "{6E0C12DD-E3B6-428F-A465-072E0AA7AC25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCABD538-F101-4C24-A2EA-494EC12C0E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCABD538-F101-4C24-A2EA-494EC12C0E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCABD538-F101-4C24-A2EA-494EC12C0E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCABD538-F101-4C24-A2EA-494EC12C0E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFA63D6-719C-417C-BA40-46ECD56F70F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFA63D6-719C-417C-BA40-46ECD56F70F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFA63D6-719C-417C-BA40-46ECD56F70F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFA63D6-719C-417C-BA40-46ECD56F70F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0C12DD-E3B6-428F-A465-072E0AA7AC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0C12DD-E3B6-428F-A465-072E0AA7AC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0C12DD-E3B6-428F-A465-072E0AA7AC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0C12DD-E3B6-428F-A465-072E0AA7AC25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A403174-81F2-4D45-90AF-6A6DE568EB75}
+	EndGlobalSection
+EndGlobal
