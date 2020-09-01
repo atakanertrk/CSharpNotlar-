@@ -51,6 +51,7 @@
 > .net standart class library versions: https://github.com/dotnet/standard/blob/master/docs/versions.md
 * unit test (xunit,nunit,mstest)
 > Mocking(testing data access code)
+* Fluent Validation in C# (Data Validation Tool)
 * dll, exe, assembly
 > https://www.youtube.com/watch?v=lx2tSY4joDg
 
