@@ -52,6 +52,7 @@
 * unit test (xunit,nunit,mstest)
 > Mocking(testing data access code)
 * Fluent Validation in C# (Data Validation Tool)
+* Structured Logging, SeriLog, Seq. SeriLog json format logging
 * dll, exe, assembly
 > https://www.youtube.com/watch?v=lx2tSY4joDg
 
