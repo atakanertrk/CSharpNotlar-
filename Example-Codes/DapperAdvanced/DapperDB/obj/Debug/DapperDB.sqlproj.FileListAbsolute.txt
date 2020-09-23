@@ -1,0 +1,10 @@
+C:\Users\ataka\Desktop\AdvancedDapper\DapperDB\bin\Debug\DapperDB.dacpac
+C:\Users\ataka\Desktop\AdvancedDapper\DapperDB\bin\Debug\DapperDB.dll
+C:\Users\ataka\Desktop\AdvancedDapper\DapperDB\bin\Debug\DapperDB.pdb
+C:\Users\ataka\Desktop\AdvancedDapper\DapperDB\obj\Debug\DapperDB.sqlprojAssemblyReference.cache
+C:\Users\ataka\Desktop\AdvancedDapper\DapperDB\obj\Debug\Model.xml
+C:\Users\ataka\Desktop\AdvancedDapper\DapperDB\obj\Debug\refactor.xml
+C:\Users\ataka\Desktop\AdvancedDapper\DapperDB\obj\Debug\postdeploy.sql
+C:\Users\ataka\Desktop\AdvancedDapper\DapperDB\obj\Debug\predeploy.sql
+C:\Users\ataka\Desktop\AdvancedDapper\DapperDB\obj\Debug\DapperDB.dll
+C:\Users\ataka\Desktop\AdvancedDapper\DapperDB\obj\Debug\DapperDB.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UjEy8HDn4AKQj+KtQYerOj/PzAb1hqM4TMCVfrukodyfRUxayPTLV83XXGoTKwNkMQUTc6dm8/ECZGDSbO4GkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ataka\\Desktop\\AdvancedDapper\\Demo1_BasicDapper\\Demo1_BasicDapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ataka\\.nuget\\packages\\dapper\\1.50.5\\dapper.1.50.5.nupkg.sha512"
+  ],
+  "logs": []
+}
