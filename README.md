@@ -55,6 +55,7 @@
 * Structured Logging, SeriLog, Seq. SeriLog json format logging
 * dll, exe, assembly
 > https://www.youtube.com/watch?v=lx2tSY4joDg
+* signalR, gRPC
 
 ## Extra
 * SOLID, DRY(dont repeat yourself), Dependency Injection(Autofac), Dependency Inversion (D in SOLID)
