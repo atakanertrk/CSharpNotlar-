@@ -41,6 +41,8 @@
 > https://www.geeksforgeeks.org/what-is-web-socket-and-how-it-is-different-from-the-http
 * diffrenece between socket and port
 
+## gRPC
+
 ## Database Management
 * Relational DB / Transactions / Log (Altan Hoca Ders Notları)
 * Stored procedures in database
