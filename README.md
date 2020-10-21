@@ -1,4 +1,4 @@
-## *computer networks, database management, docker for windows and more : ["AlsoRead.md"](https://github.com/atakanertrk/csharp-and-dotnet-general/blob/master/AlsoRead.md)* 
+## *computer networks, database management, docker for windows, signalR, gRPC and more : ["AlsoRead.md"](https://github.com/atakanertrk/csharp-and-dotnet-general/blob/master/AlsoRead.md)* 
 
 #
 #
