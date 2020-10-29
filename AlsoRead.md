@@ -35,7 +35,7 @@
 * Switch & router & modem 
 > https://youtu.be/1z0ULvg_pW8
 
-## WebSocket - SignalR(.net)
+## WebSocket - WebHook - SignalR(.net)
 * https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
 * websocket vs http and how does websocket works
 > https://www.geeksforgeeks.org/what-is-web-socket-and-how-it-is-different-from-the-http
