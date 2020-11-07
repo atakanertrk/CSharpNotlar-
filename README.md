@@ -45,7 +45,8 @@
 * Events (Creating and Consuming Events)
 * Web Service (asmx), Microservice 
 > https://stackoverflow.com/questions/45453061/what-is-the-difference-between-microservices-and-webservices
-* SOAP, WCF
+* SOAP, WCF, Azure Functions
+* UWP, Windows Services, Worker Services
 * xml,xaml,wpf
 * class librarys
 > .net standart class library versions: https://github.com/dotnet/standard/blob/master/docs/versions.md
