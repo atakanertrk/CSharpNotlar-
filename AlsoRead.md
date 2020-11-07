@@ -44,5 +44,6 @@
 ## gRPC
 
 ## Database Management
-* Relational DB / Transactions / Log (Altan Hoca Ders Notları)
+* Relational DB / Transactions / Log
 * Stored procedures in database
+* Roles and Users
