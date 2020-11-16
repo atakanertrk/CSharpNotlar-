@@ -9,12 +9,13 @@
 # C#.NET GENERAL
 
 ## Language Concepts
-* CSharp 8.0 news (Read-Only Struct Members, (important)Default Interface Method Implementations and more)
-> https://www.youtube.com/watch?v=2lUZ58Zyu3w&list=PLLWMQd6PeGY12yNE714jffLFnMVZCwvvZ&index=10
 * .NET 5 - C# 9
 > https://docs.microsoft.com/en-us/dotnet/core/dotnet-five 
 > https://devblogs.microsoft.com/dotnet/announcing-net-5-0/ 
 > https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/
+> https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9
+* CSharp 8.0 news (Read-Only Struct Members, (important)Default Interface Method Implementations and more)
+> https://www.youtube.com/watch?v=2lUZ58Zyu3w&list=PLLWMQd6PeGY12yNE714jffLFnMVZCwvvZ&index=10
 * common language runtime / intermediate language
 * oop principles (encapsulation, abstraction, inheritance, polymorphism, interface)
 * Access modifiers and inheritence
