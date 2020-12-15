@@ -40,7 +40,9 @@
 
 ## gRPC
 #### 1-) general concepts for gRPC
-* ( server <-> server ) gRPC uses binary stream which 6 times faster than JSON serialize-deserialize 
+* server <-> server
+* gRPC uses binary stream
+* 7 times faster than REST when receiving data & roughly 10 times faster than REST when sending data for this specific payload
 > gRPC supports streaming semantics, where either the client or the server (or both) send a stream of messages on a single RPC call. The most general case is Bidirectional Streaming where a single gRPC call establishes a stream in which both the client and the server can send a stream of messages to each other.
 * protocol buffers ( protobuf ) 
 > https://developers.google.com/protocol-buffers
