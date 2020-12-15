@@ -46,7 +46,8 @@
 > gRPC supports streaming semantics, where either the client or the server (or both) send a stream of messages on a single RPC call. The most general case is Bidirectional Streaming where a single gRPC call establishes a stream in which both the client and the server can send a stream of messages to each other.
 * protocol buffers ( protobuf ) 
 > https://developers.google.com/protocol-buffers
-
+* proto file ( standard file for service that describes model state of service )
+> details of proto file https://developers.google.com/protocol-buffers/docs/proto
 
 ## Database Management
 * Relational DB / Transactions / Log
