@@ -36,12 +36,15 @@
 > https://youtu.be/1z0ULvg_pW8
 
 ## WebSocket - WebHook - SignalR(.net)
-* https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
-* websocket vs http and how does websocket works
-> https://www.geeksforgeeks.org/what-is-web-socket-and-how-it-is-different-from-the-http
-* diffrenece between socket and port
+* server <-> client
 
 ## gRPC
+#### 1-) general concepts for gRPC
+* ( server <-> server ) gRPC uses binary stream which 6 times faster than JSON serialize-deserialize 
+> gRPC supports streaming semantics, where either the client or the server (or both) send a stream of messages on a single RPC call. The most general case is Bidirectional Streaming where a single gRPC call establishes a stream in which both the client and the server can send a stream of messages to each other.
+* protocol buffers ( protobuf ) 
+> https://developers.google.com/protocol-buffers
+
 
 ## Database Management
 * Relational DB / Transactions / Log
