@@ -50,6 +50,8 @@
 > details of proto file https://developers.google.com/protocol-buffers/docs/proto
 
 ## Database Management
-* Relational DB / Transactions / Log
-* Stored procedures in database
-* Roles and Users
+* Relational DB ( MySQL SQLServer SQLite->embeded )
+> Stored procedures in database
+> Roles and Users
+> Transactions 
+* NoSQL ( MongoDB Litedb->embeded )
