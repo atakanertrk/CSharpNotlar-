@@ -73,6 +73,7 @@
 * Design Patterns (singleton)
 * Thread Safety
 * Password Security
+* RSA - AES - SHA256
 > use hash function to store sensitive data in database
 > https://www.keycdn.com/blog/http-to-https
 > https://www.wired.com/2012/11/ff-mat-honan-password-hacker/
