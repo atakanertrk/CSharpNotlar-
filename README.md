@@ -42,6 +42,8 @@
 >https://stackoverflow.com/questions/5096926/what-is-the-get-set-syntax-in-c <br/>
 * Constructor,Attributes,Reflection,(Delegate&Events)
 * property and full property (prop,propfull)
+* Automapper
+> https://automapper.org/
 
 ## Other Stuff
 * Linq for Lists
