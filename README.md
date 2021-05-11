@@ -64,6 +64,8 @@
 * dll, exe, assembly
 > https://www.youtube.com/watch?v=lx2tSY4joDg
 * signalR, gRPC
+* Queue Yapıları (RabbitMQ, Kafka, Hanhgfire, Azure Functions)
+* Caching (Azure Redis) 
 
 ## Extra
 * SOLID, DRY(dont repeat yourself), Dependency Injection(Autofac), Dependency Inversion (D in SOLID)
