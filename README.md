@@ -81,7 +81,7 @@
 > use hash function to store sensitive data in database
 > https://www.keycdn.com/blog/http-to-https
 > https://www.wired.com/2012/11/ff-mat-honan-password-hacker/
-
+> sha256 is not enough https://security.stackexchange.com/questions/195563/why-is-sha-256-not-good-for-passwords
 
 
 
